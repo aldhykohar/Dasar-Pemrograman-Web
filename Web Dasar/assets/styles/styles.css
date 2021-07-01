@@ -15,6 +15,10 @@ main{
     overflow: auto;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 *{
     box-sizing: border-box;
 }
